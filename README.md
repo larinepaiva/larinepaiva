@@ -1,6 +1,6 @@
-boas vindas ao meu perfil
+boas vindos ao meu perfil
 
-meu nome é larine pereira paiva
+meu nome é larine paiva
 
 estou estudando na alura
 
